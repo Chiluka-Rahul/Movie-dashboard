@@ -1,0 +1,28 @@
+.cast-list {
+  width: 150px;
+  border: 1px solid rgb(224, 219, 219);
+  margin: 10px;
+  box-shadow:
+    0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 8px;
+  font-family: 'Roboto';
+}
+
+.cast-img {
+  width: 100%;
+}
+
+.o-name {
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 10px;
+  margin: 1px;
+}
+
+.c-name {
+  padding-left: 10px;
+  font-size: 14px;
+  margin-top: 0;
+  padding-bottom: 8px;
+}

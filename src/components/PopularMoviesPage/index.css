@@ -1,0 +1,31 @@
+.popular-movies-container {
+  background-color: #22254b;
+  padding-top: 2px;
+}
+
+.popular-movie-list {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.active-pg {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 600;
+  margin: 5px;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: center;
+}
+
+.arrow-btn {
+  /* height: 30px;
+  width: 30px; */
+  margin: 5px;
+  /* background-color: transparent; */
+  cursor: pointer;
+}
